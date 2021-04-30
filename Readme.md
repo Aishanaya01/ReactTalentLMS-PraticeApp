@@ -11,8 +11,8 @@ Softwares':<br>
 7. Python: [Download](https://www.python.org/downloads/windows/)
 8. Intel x86 Emulator Accerlator(HAXM): [Download](https://youtu.be/7_Ny7-y6TRA)
 # Screenshots
-[main](main.jpeg)
-[img](img.jpeg)
-[img1](img1.jpeg)
-[img2](img2.jpeg)
-[img3](img3.jpeg)
+[main](main.jpeg)<img  src="main.jpeg">
+[img](img.jpeg)<img  src="img.jpeg">
+[img1](img1.jpeg)<img  src="img1.jpeg">
+[img2](img2.jpeg)<img  src="img2.jpeg">
+[img3](img3.jpeg)<img  src="img3.jpeg">
